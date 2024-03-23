@@ -4,6 +4,6 @@ public class Max
 {
     public static double max(int[] args)
     {
-        return args.Max();
+        return args.Max(); // comment
     }
 }
