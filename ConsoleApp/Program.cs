@@ -9,3 +9,4 @@ Console.WriteLine("Bajo jajo 3!");
 
 
 Console.WriteLine(Average.average([666,75,24,66]));
+Console.WriteLine(Max.max([666,75,24,66]));
